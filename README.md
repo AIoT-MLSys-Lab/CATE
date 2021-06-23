@@ -2,7 +2,7 @@
 Code for paper:
 > [CATE: Computation-aware Neural Architecture Encoding with Transformers](https://arxiv.org/abs/2102.07108) \
 > Shen Yan, Kaiqiang Song, Fei Liu, Mi Zhang. \
-> _ICML 2021_.
+> _ICML 2021 (Long Talk)_.
 
 <p align="center">
   <img src="docs/cate_img.png" alt="CATE" width="90%"> <br />
